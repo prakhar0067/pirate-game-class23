@@ -1,1 +1,2 @@
-# pirate-game-class23
+# PRO-C23-SA-boilerplate
+boilerplate code for C23
